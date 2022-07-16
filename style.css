@@ -1,0 +1,59 @@
+.div1 {
+    float: left;
+    width: 50%;
+    height: 300px;
+    background-color: aquamarine;
+}
+
+.div2 {
+    float: right;
+    width: 50%;
+    height: 300px;
+    background-color: blueviolet;
+}
+
+#click {
+    border-radius: 200px;
+    background-image: url("download.png");
+    height: 220px;
+    width: 220px;
+    background-position: center;
+    margin-top: 35px;
+}
+
+#dimg1 {
+    float: left;
+    width: 33.33333333333333%;
+    height: 40%;
+    background-color:cornflowerblue;
+    padding-bottom: 10px;
+
+}
+
+#dimg2 {
+    float: left;
+    width: 33.33333333333333%;
+    height: 40%;
+    background-color:cornflowerblue;
+    padding-bottom: 10px;
+
+
+}
+
+#dimg3 {
+    float: left;
+    width: 33.33333333333333%;
+    height: 40%;
+    background-color:cornflowerblue;
+    padding-bottom: 10px;
+}
+.main{
+    margin-top: 35px;
+    height: 90%;
+    width: 90%; 
+}
+#color{
+    background-color:coral;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
